@@ -102,6 +102,7 @@ hist(k_values$k,breaks=471)
 
 k_values <- coef1
 
+#test the cross-validation method using weighted least squares
 
 
 gdata::keep(exbase, 
